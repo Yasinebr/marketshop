@@ -1,0 +1,5 @@
+{
+    "require": {
+        "hedii/uptime-checker": "^1.0"
+    }
+}
